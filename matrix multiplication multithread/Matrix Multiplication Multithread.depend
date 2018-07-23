@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1411521904 source:c:\users\amilton\desktop\shared_vm\matrix multiplication\matrix multiplication multithread\matrix_mult_thread.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+
